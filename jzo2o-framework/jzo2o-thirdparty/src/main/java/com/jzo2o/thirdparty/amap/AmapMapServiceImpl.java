@@ -24,6 +24,7 @@ import java.util.Map;
 @Service
 @ConditionalOnBean(AmapProperties.class)
 public class AmapMapServiceImpl implements MapService {
+
     @Autowired
     private AmapProperties amapProperties;
 
