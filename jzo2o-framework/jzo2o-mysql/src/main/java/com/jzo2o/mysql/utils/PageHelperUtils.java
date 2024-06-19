@@ -23,7 +23,6 @@ public class PageHelperUtils {
      * @return
      */
     public static <T> PageResult<T> selectPage(PageQueryDTO pageQueryDTO, QueryExecutor<T> condition) {
-
         PageHelper.startPage(pageQueryDTO.getPageNo().intValue(), pageQueryDTO.getPageSize().intValue(), getOrder(pageQueryDTO));
         List<T> data = condition.query();
         if (data instanceof Page) {
