@@ -14,7 +14,7 @@ import java.io.IOException;
 import static com.jzo2o.mvc.constants.HeaderConstants.BODY_PROCESSED;
 
 /**
- * 用于包装外网访问
+ * 用于包装外网访问，包装响应值
  */
 @Component
 @Slf4j

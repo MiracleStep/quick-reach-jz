@@ -4,7 +4,11 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import com.jzo2o.common.model.PageResult;
 import com.jzo2o.foundations.model.domain.Serve;
 import com.jzo2o.foundations.model.dto.request.ServePageQueryReqDTO;
+import com.jzo2o.foundations.model.dto.request.ServeUpsertReqDTO;
 import com.jzo2o.foundations.model.dto.response.ServeResDTO;
+
+import java.math.BigDecimal;
+import java.util.List;
 
 
 /**
@@ -16,5 +20,32 @@ import com.jzo2o.foundations.model.dto.response.ServeResDTO;
  * @since 2024-06-17
  */
 public interface IServeService extends IService<Serve> {
+    /**
+     * 区域服务分页查询
+     * @param servePageQueryReqDTO
+     * @return
+     */
     PageResult<ServeResDTO> page(ServePageQueryReqDTO servePageQueryReqDTO);
+
+    /**
+     * 批量添加区域服务
+     * @param serveUpsertReqDTOList
+     */
+    void batchAdd(List<ServeUpsertReqDTO> serveUpsertReqDTOList);
+
+    /**
+     * 服务价格修改
+     * @param id
+     * @param price
+     * @return
+     */
+    Serve update(Long id, BigDecimal price);
+
+
+    /**
+     * 上架服务
+     * @param id
+     * @return
+     */
+    Serve onSale(Long id);
 }
