@@ -52,7 +52,7 @@ const user = {
       state.token = provider;
     },
     // 设置昵称
-    setToken(state, provider) {
+    setName(state, provider) {
       state.nickName = provider;
     },
     // 订单是否提交成功
