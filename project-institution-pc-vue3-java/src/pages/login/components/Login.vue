@@ -82,7 +82,7 @@ const loadSt = ref(false)
 
 const INITIAL_DATA = {
   phone: '15896123123',
-  password: '888itcast.CN764%...',
+  password: '888mirac .CN764%...',
   userType: 3
 }
 

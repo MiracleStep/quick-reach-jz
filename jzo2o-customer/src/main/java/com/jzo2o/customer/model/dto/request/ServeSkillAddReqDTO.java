@@ -9,7 +9,7 @@ import javax.validation.constraints.NotNull;
 /**
  * 服务技能新增请求
  *
- * @author itcast
+ * @author mirac
  * @create 2023/7/18 14:27
  **/
 @Data

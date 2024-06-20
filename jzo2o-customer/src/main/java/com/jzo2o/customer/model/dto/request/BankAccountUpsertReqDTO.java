@@ -11,7 +11,7 @@ import java.io.Serializable;
  * 银行账户新增或更新请求体
  * </p>
  *
- * @author itcast
+ * @author mirac
  * @since 2023-09-06
  */
 @Data

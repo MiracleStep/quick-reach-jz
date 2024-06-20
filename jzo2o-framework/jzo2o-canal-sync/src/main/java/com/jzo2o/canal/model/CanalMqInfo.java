@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author itcast
+ * @author mirac
  */
 @Data
 public class CanalMqInfo implements Serializable {

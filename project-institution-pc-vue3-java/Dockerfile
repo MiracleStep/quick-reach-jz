@@ -1,6 +1,6 @@
 FROM nginx
-LABEL maintainer="信息中心研发组 <user@itcast.cn>"
- 
+LABEL maintainer="信息中心研发组 <user@mirac .cn>"
+
 COPY ./dist/  /usr/share/nginx/html/
 RUN chmod -R 777 /usr/share/nginx/html/
 

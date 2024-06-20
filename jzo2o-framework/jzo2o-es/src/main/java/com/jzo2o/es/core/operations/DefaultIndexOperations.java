@@ -4,7 +4,7 @@ import co.elastic.clients.elasticsearch.ElasticsearchClient;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author itcast
+ * @author mirac
  */
 @Slf4j
 public class DefaultIndexOperations implements IndexOperations{

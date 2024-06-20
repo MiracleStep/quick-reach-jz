@@ -20,7 +20,7 @@
 ///**
 // * 监听mq消息
 // *
-// * @author itcast
+// * @author mirac
 // **/
 //@Slf4j
 //@Component

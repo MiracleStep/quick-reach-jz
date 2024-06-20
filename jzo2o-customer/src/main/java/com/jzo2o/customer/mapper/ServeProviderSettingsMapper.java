@@ -12,7 +12,7 @@ import java.util.List;
  * 服务人员/机构附属信息 Mapper 接口
  * </p>
  *
- * @author itcast
+ * @author mirac
  * @since 2023-07-20
  */
 public interface ServeProviderSettingsMapper extends BaseMapper<ServeProviderSettings> {

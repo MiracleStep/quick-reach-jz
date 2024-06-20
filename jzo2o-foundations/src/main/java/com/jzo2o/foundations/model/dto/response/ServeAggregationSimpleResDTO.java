@@ -12,7 +12,7 @@ import java.math.BigDecimal;
 /**
  * 服务响应值
  *
- * @author itcast
+ * @author mirac 
  * @create 2023/7/4 11:53
  **/
 @Data

@@ -5,7 +5,7 @@ import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 
 /**
- * @author itcast
+ * @author mirac
  */
 @Data
 @ApiModel("运营人员新增模型")

@@ -2,7 +2,7 @@ package com.jzo2o.common.expcetions;
 
 /**
  * 应用启动异常
- * @author itcast
+ * @author mirac
  */
 public class StartException extends CommonException{
 

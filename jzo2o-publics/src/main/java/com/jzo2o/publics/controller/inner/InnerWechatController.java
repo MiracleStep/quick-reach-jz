@@ -18,7 +18,7 @@ import javax.annotation.Resource;
 /**
  * 微信服务
  *
- * @author itcast
+ * @author mirac 
  * @create 2023/8/23 19:31
  **/
 @RestController

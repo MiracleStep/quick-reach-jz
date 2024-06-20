@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * 评价对象配置
  *
- * @author itcast
+ * @author mirac
  * @create 2023/9/11 17:03
  **/
 @Data

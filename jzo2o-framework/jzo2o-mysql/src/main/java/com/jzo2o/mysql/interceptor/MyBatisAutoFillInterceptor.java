@@ -15,7 +15,7 @@ import static com.jzo2o.mysql.constants.DbFiledConstants.CREATE_BY;
 import static com.jzo2o.mysql.constants.DbFiledConstants.UPDATE_BY;
 
 /**
- * @author itcast
+ * @author mirac
  */
 public class MyBatisAutoFillInterceptor implements InnerInterceptor {
 

@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.Resource;
 
 /**
- * @author itcast
+ * @author mirac
  */
 @RestController("openLoginController")
 @RequestMapping("/open/login")
@@ -34,7 +34,6 @@ public class LoginController {
         }else{
             return loginService.loginForVerify(loginForWorkReqDTO);
         }
-
     }
 
     /**

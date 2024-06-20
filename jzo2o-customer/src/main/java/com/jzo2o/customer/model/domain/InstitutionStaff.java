@@ -18,8 +18,6 @@ import java.util.List;
  * 机构下属服务人员
  * </p>
  *
- * @author itcast
- * @since 2023-07-18
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

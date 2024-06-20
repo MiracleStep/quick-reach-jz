@@ -7,7 +7,7 @@ import lombok.Data;
 /**
  * 服务技能类型响应
  *
- * @author itcast
+ * @author mirac 
  * @create 2023/7/18 17:39
  **/
 @Data

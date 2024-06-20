@@ -8,7 +8,7 @@ import org.springframework.amqp.rabbit.connection.CorrelationData;
 import org.springframework.util.concurrent.ListenableFutureCallback;
 
 /**
- * @author itcast
+ * @author mirac
  */
 @Builder
 public class RabbitMqListenableFutureCallback implements ListenableFutureCallback<CorrelationData.Confirm> {

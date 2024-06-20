@@ -30,7 +30,7 @@ import javax.annotation.Resource;
 import java.nio.charset.Charset;
 
 /**
- * @author itcast
+ * @author mirac
  */
 @Configuration
 @ConditionalOnProperty(prefix = "rabbit-mq", name = "enable", havingValue = "true")

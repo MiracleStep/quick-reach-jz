@@ -110,11 +110,11 @@ http://localhost:9528/
 前端 负责人： 司文强
 
 siwenqiang-0609 分支 神领物流一期 - 前端
-git 地址：http://git.itcast.cn/development/project-wl-yonghuduan-uniapp-vue3
+git 地址：http://git.mirac .cn/development/project-wl-yonghuduan-uniapp-vue3
 
 后端 负责人：王小兵，张家乐
 接口：http://sl-express-gateway.yjy-public-slwl-java.svc.cluster.local:8080/manager/doc.html#/home
-git 地址：http://git.itcast.cn/sl-express/sl-express-ms-web/sl-express-ms-web-manager
+git 地址：http://git.mirac .cn/sl-express/sl-express-ms-web/sl-express-ms-web-manager
 
 设计 负责人：王静
 设计稿地址：https://codesign.qq.com/s/QmlyZwQxAQ9WRA1/JMwy0bRnNRq0O6L/inspect

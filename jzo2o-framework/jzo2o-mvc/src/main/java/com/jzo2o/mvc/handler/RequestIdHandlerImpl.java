@@ -10,7 +10,7 @@ import com.jzo2o.mvc.utils.UserContext;
 import org.springframework.stereotype.Component;
 
 /**
- * @author itcast
+ * @author mirac
  */
 @Component
 public class RequestIdHandlerImpl implements RequestIdHandler {

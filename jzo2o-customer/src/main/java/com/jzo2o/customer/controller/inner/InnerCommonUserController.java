@@ -13,7 +13,7 @@ import javax.annotation.Resource;
 /**
  * 内部接口-普通用户相关接口
  *
- * @author itcast
+ * @author mirac 
  * @create 2023/7/7 19:34
  **/
 @RestController

@@ -17,7 +17,7 @@ import lombok.experimental.Accessors;
  * 评分同步列表
  * </p>
  *
- * @author itcast
+ * @author mirac 
  * @since 2023-08-07
  */
 @Data

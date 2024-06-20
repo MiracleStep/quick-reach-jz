@@ -7,7 +7,7 @@ import lombok.Data;
 /**
  * 城市编码响应信息
  *
- * @author itcast
+ * @author mirac
  * @create 2023/7/10 10:04
  **/
 @Data

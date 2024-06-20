@@ -15,7 +15,7 @@ import java.math.BigDecimal;
  * 服务同步表
  * </p>
  *
- * @author itcast
+ * @author mirac 
  * @since 2023-07-10
  */
 @Data

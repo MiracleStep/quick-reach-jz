@@ -3,7 +3,7 @@ package com.jzo2o.common.expcetions;
 import lombok.Data;
 
 /**
- * @author itcast
+ * @author mirac 
  */
 @Data
 public class MqException extends CommonException{

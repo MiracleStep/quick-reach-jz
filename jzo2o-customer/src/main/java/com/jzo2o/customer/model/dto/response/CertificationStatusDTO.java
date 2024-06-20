@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
  * 机构认证信息表
  * </p>
  *
- * @author itcast
+ * @author mirac 
  * @since 2023-09-06
  */
 @Data

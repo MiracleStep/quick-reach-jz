@@ -19,7 +19,7 @@ import java.time.format.DateTimeFormatter;
 import static com.jzo2o.common.utils.DateUtils.DEFAULT_DATE_TIME_FORMAT;
 
 /**
- * @author itcast
+ * @author mirac
  */
 @Configuration
 @ConditionalOnClass(ObjectMapper.class)

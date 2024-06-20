@@ -5,6 +5,6 @@
 - Prettier 统一代码格式
 - ESlint 检查代码质量和风格问题。
 
-[Git](http://git.itcast.cn/development/czri-admin)
+[Git](http://git.mirac .cn/development/czri-admin)
 [预览](https://czri-admin.itheima.net/)
 [快速开始](/zh-cn/)

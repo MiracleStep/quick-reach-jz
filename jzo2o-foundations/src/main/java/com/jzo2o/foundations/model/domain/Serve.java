@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
  * 区域服务表
  * </p>
  *
- * @author itcast
+ * @author mirac 
  * @since 2023-07-03
  */
 @Data

@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.annotation.Resource;
 
 /**
- * @author itcast
+ * @author mirac
  */
 @RestController("operationCommonUserController")
 @RequestMapping("/operation/common-user")

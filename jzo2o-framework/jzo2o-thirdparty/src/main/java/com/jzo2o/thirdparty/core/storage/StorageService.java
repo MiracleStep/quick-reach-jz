@@ -3,7 +3,7 @@ package com.jzo2o.thirdparty.core.storage;
 import java.io.InputStream;
 
 /**
- * @author itcast
+ * @author mirac
  */
 public interface StorageService {
     /**

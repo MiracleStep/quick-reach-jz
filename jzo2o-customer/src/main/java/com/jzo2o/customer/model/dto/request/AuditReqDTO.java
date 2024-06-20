@@ -7,7 +7,7 @@ import lombok.Data;
 /**
  * 用户提交举报信息
  *
- * @author itcast
+ * @author mirac 
  * @create 2023/6/2 15:47
  **/
 @Data

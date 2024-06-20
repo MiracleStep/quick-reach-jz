@@ -14,7 +14,7 @@ import java.io.Serializable;
  * 城市编码表
  * </p>
  *
- * @author itcast
+ * @author mirac
  * @since 2023-07-04
  */
 @Data

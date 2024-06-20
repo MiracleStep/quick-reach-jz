@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 
 /**
- * @author itcast
+ * @author mirac 
  */
 @Configuration
 @Import(PackResultFilter.class)

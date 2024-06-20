@@ -32,25 +32,25 @@
 
 	
 - 研发 - 前端
-	- 快递员端 git - 娄江华: http://git.itcast.cn/development/project-wl-kuaidiyuan-uniapp-vue3
+	- 快递员端 git - 娄江华: http://git.mirac .cn/development/project-wl-kuaidiyuan-uniapp-vue3
 	
-	- 司机端 git - 李小刚：http://git.itcast.cn/development/project-wl-siji-uniapp-vue3
+	- 司机端 git - 李小刚：http://git.mirac .cn/development/project-wl-siji-uniapp-vue3
 	
-	- 用户端 git - 司文强: http://git.itcast.cn/development/project-wl-yonghuduan-uniapp-vue3
+	- 用户端 git - 司文强: http://git.mirac .cn/development/project-wl-yonghuduan-uniapp-vue3
 	
-	- 管理后台 git - 司文强： http://git.itcast.cn/development/project-pdwl-admin-vue/tree/siwenqiang-0609
+	- 管理后台 git - 司文强： http://git.mirac .cn/development/project-pdwl-admin-vue/tree/siwenqiang-0609
 - 后端java： 张志军、张家乐、王小兵
-	- 网关git: http://git.itcast.cn/sl-express/sl-express-gateway
+	- 网关git: http://git.mirac .cn/sl-express/sl-express-gateway
 
-	- 快递员端 git - 张家乐：http://git.itcast.cn/sl-express/sl-express-ms-web/sl-express-ms-web-courier
+	- 快递员端 git - 张家乐：http://git.mirac .cn/sl-express/sl-express-ms-web/sl-express-ms-web-courier
 
-	- 司机端 git - 张家乐： http://git.itcast.cn/sl-express/sl-express-ms-web/sl-express-ms-web-driver
+	- 司机端 git - 张家乐： http://git.mirac .cn/sl-express/sl-express-ms-web/sl-express-ms-web-driver
 
-	- 用户端 git -王小兵： http://git.itcast.cn/sl-express/sl-express-ms-web/sl-express-ms-web-customer
+	- 用户端 git -王小兵： http://git.mirac .cn/sl-express/sl-express-ms-web/sl-express-ms-web-customer
 
-	- 管理后台 git - 管理后台：王小兵 http://git.itcast.cn/sl-express/sl-express-ms-web/sl-express-ms-web-manager
+	- 管理后台 git - 管理后台：王小兵 http://git.mirac .cn/sl-express/sl-express-ms-web/sl-express-ms-web-manager
 
-	- 后端全部微服务 git：http://git.itcast.cn/sl-express
+	- 后端全部微服务 git：http://git.mirac .cn/sl-express
 
 #### 访问地址
 - 管理后台：http://slwl-admin-t.itheima.net

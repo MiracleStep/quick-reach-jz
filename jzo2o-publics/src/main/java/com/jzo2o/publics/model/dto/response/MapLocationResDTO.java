@@ -7,7 +7,7 @@ import lombok.Data;
 /**
  * 地图定位响应信息
  *
- * @author itcast
+ * @author mirac 
  * @create 2023/7/10 10:04
  **/
 @Data

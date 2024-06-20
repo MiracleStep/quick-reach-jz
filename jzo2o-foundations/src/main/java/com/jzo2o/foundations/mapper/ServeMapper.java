@@ -16,7 +16,7 @@ import java.util.List;
  * Mapper 接口
  * </p>
  *
- * @author itcast
+ * @author mirac
  * @since 2023-07-03
  */
 public interface ServeMapper extends BaseMapper<Serve> {

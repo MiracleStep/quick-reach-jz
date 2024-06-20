@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.function.Function;
 
 /**
- * @author itcast
+ * @author mirac 
  */
 public interface DocumentOperations {
 

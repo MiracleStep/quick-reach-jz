@@ -14,7 +14,7 @@ import lombok.experimental.Accessors;
  * 服务人员认证信息表
  * </p>
  *
- * @author itcast
+ * @author mirac
  * @since 2023-09-06
  */
 @Data

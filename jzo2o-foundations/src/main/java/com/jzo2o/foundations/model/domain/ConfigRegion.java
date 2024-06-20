@@ -13,7 +13,7 @@ import lombok.experimental.Accessors;
  * 区域业务配置
  * </p>
  *
- * @author itcast
+ * @author mirac
  * @since 2023-08-21
  */
 @Data

@@ -14,7 +14,7 @@ import java.util.List;
  * 服务技能表 服务类
  * </p>
  *
- * @author itcast
+ * @author mirac
  * @since 2023-07-18
  */
 public interface IServeSkillService extends IService<ServeSkill> {

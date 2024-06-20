@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 /**
  * 服务分类响应信息
  *
- * @author itcast
+ * @author mirac
  * @create 2023/7/7 14:50
  **/
 @Data
